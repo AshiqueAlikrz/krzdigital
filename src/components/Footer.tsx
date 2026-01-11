@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { Mail, Phone, Globe, Facebook, Twitter, Linkedin, Instagram } from "lucide-react";
+import { Mail, Phone, Globe, Facebook, Twitter, Linkedin, Instagram, MapPin } from "lucide-react";
 import Logo from "../../public/favicon.ico";
 
 const Footer = () => {
@@ -44,6 +44,10 @@ const Footer = () => {
               <a href="https://www.krzdigital.online" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
                 <Globe size={16} />
                 www.krzdigital.online
+              </a>
+              <a target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
+                <MapPin size={16} />
+                Near Sharaf DG Metro Station, Bur Dubai
               </a>
             </div>
           </div>
