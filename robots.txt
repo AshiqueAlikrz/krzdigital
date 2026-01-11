@@ -1,0 +1,9 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.krzdigital.online/sitemap.xml
