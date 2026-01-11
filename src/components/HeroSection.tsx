@@ -74,7 +74,7 @@ const HeroSection = () => {
                 </motion.svg>
               </motion.span>
             </Button>
-
+{/* 
             <Button variant="outline" size="lg" className="group border-border hover:border-primary/50 hover:bg-secondary/50 px-8 py-6 text-lg font-semibold rounded-xl backdrop-blur-sm">
               <span className="flex items-center gap-2">
                 View Our Work
@@ -82,7 +82,7 @@ const HeroSection = () => {
                   ✦
                 </motion.span>
               </span>
-            </Button>
+            </Button> */}
           </motion.div>
         </div>
 
