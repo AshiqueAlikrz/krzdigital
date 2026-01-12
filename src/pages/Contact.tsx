@@ -61,7 +61,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Location",
-      value: "Near Sharaf DG Metro Station ,Bur Dubai, Dubai",
+      value: "Bur Dubai, United Arab Emirates",
       href: "#",
     },
   ];

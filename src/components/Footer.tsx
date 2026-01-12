@@ -47,7 +47,7 @@ const Footer = () => {
               </a>
               <a target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors">
                 <MapPin size={16} />
-                Near Sharaf DG Metro Station, Bur Dubai
+                 Bur Dubai, United Arab Emirates
               </a>
             </div>
           </div>
